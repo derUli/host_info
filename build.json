@@ -1,0 +1,7 @@
+{
+   "id" : "host_info",
+   "version" : "1.0",
+   "description" : "Host Info",
+   "categories" : ["host", "info", "system", "webhost", "webhosting", "sysinfo", "administration", "server"],
+   "compatible_from" : "2017.3.9"
+}
